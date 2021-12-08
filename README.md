@@ -27,5 +27,5 @@ please
 
 
 ### 各位老板觉得好用的话可以给我打赏
-[image](./weixin.jpg)
-[image](./zhifubao.jpg)
+![image](./weixin.jpg)
+![image](./zhifubao.jpg)
