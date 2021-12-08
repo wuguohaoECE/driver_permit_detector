@@ -27,5 +27,5 @@ please
 
 
 ### 各位老板觉得好用的话可以给我打赏
-![image](https://github.com/wuguohaoECE/driver_permit_detector/blob/main/weixin.jpg)
-![image](https://github.com/wuguohaoECE/driver_permit_detector/blob/main/zhifubao.jpg)
+![image](./weixin.jpg)
+![image](./zhifubao.jpg)
